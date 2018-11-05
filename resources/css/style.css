@@ -1,0 +1,194 @@
+.results {
+    margin-top: 1em;
+}
+
+.container.hide {
+    display: none;
+}
+.container {
+    display: block;
+}
+
+.image.is-400x400 {
+    width: 400px;
+    height: 400px;
+}
+
+.image.is-512x512 {
+    width: 512px;
+    height: 512px;
+}
+
+.img {
+    margin: 1px 1px;
+    border: 1px solid lightgray;
+}
+
+.link {
+    margin-right: 20px;
+}
+
+.badge1 {
+    position:relative;
+}
+
+.badge1[data-badge]:after {
+    content:attr(data-badge);
+    position:absolute;
+    top:-5px;
+    right:-20px;
+    font-size:.7em;
+    background:green;
+    color:white;
+    width:18px;height:18px;
+    text-align:center;
+    line-height:18px;
+    border-radius:50%;
+    box-shadow:0 0 1px #333;
+}
+
+.badge1[data-badge="0"]:after {
+    display: none;
+}
+
+.cart-detail .media {
+    border: 1px solid lightgray;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.qty {
+    width: 40px;
+    height: 25px;
+    text-align: center;
+}
+
+input[type="button"] {
+    width:25px; 
+    height:25px;
+}
+
+.link-cart {
+    position: relative;
+}
+
+.link-cart .mini-cart {
+    position: absolute;
+    z-index: 99;
+    width: 500px;
+    right: -248px;
+    background: #fff;
+    display: none;
+}
+
+.mini-cart .container {
+    border: 1px solid #efefef;
+    padding: 10px 10px 0 10px;
+}
+
+.mini-cart .item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    border-top: 1px solid #efefef;
+}
+
+.link-cart .items {
+    max-height: 0px;
+    transition: all .5s ease-in-out;
+}
+
+.link-cart.active .items {
+    max-height: 235px;
+    overflow: auto;
+}
+
+
+.link-cart.active .mini-cart {
+    display: block;
+}
+
+.order-form-title {
+    text-align: center;
+    vertical-align: middle;
+    height: 36px;
+    background: orange;
+    line-height: 36px;
+}
+
+.container.footer-link-container {
+    background: black;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+.container.footer-link-container strong {
+    color: white;
+}
+
+.container.footer-link-container a {
+    color: white;
+}
+
+.container.footer-container .item {
+    margin-top: 10px;
+}
+
+.tippy {
+    height: 1.5em;
+    background: lightgoldenrodyellow;
+    opacity: 1;
+    transition: all 2s ease-in;
+    text-align: center;
+}
+
+.tippy.hide {
+    opacity: 0;
+}
+
+.focpos.selected {
+    background: #efefef;
+    font-weight: bold;
+}
+
+.search-result-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.facet-panel .facet-title {
+    margin-top: 1.5em;
+    margin-bottom: 0px;
+    border-bottom: 1px solid orange;
+    text-transform: uppercase;
+}
+
+.facet.hide {
+    display: none;
+}
+
+.filters {
+    padding-bottom: 10px;
+}
+.filter .code {
+    display: inline;
+}
+
+.filter .close {
+    display: inline;
+    text-align: right;
+    padding-left: 10px;
+    font-size: 0.95em;
+    cursor: pointer;
+}
+
+.filters .clear-filters {
+    margin-left: 10px;
+}
+
+.filter {
+    background-color: #efefef;
+    padding: 3px 5px 3px 8px;
+    margin-right: 10px;
+    
+}

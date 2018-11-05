@@ -1,0 +1,1981 @@
+{
+    "results": [
+        {
+            "code": "0001",
+            "name": "hybris Mug",
+            "url": "/Hybris-Catalogue/Stuff/hybris-Mug/p/0001",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "A mug for drinks or pens",
+            "manufacturer": "Mugs & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 7.48,
+                "priceType": "BUY",
+                "formattedValue": "$7.48",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0001",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-cup.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-cup.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "100",
+                    "name": "Stuff",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brand_1",
+                    "name": "Brand1"
+                },
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                }
+            ],
+            "priceUSDrange": "$0-$19.99"
+        },
+        {
+            "code": "0002",
+            "name": "hybris pen",
+            "url": "/Hybris-Catalogue/Stuff/hybris-pen/p/0002",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "A pen for writing",
+            "manufacturer": "Mugs & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 3.74,
+                "priceType": "BUY",
+                "formattedValue": "$3.74",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0002",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-pen.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-pen.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "100",
+                    "name": "Stuff",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brand_1",
+                    "name": "Brand1"
+                },
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                }
+            ],
+            "priceUSDrange": "$0-$19.99"
+        },
+        {
+            "code": "0003",
+            "name": "hybris A5 notepad",
+            "url": "/Hybris-Catalogue/Stuff/hybris-A5-notepad/p/0003",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "An A5 notepad for writing",
+            "manufacturer": "Mugs & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 7.48,
+                "priceType": "BUY",
+                "formattedValue": "$7.48",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0003",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-block.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-block.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "100",
+                    "name": "Stuff",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brand_1",
+                    "name": "Brand1"
+                },
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                }
+            ],
+            "priceUSDrange": "$0-$19.99"
+        },
+        {
+            "code": "0004",
+            "name": "hybris A4 notepad",
+            "url": "/Hybris-Catalogue/Stuff/hybris-A4-notepad/p/0004",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "An A4 notepad for writing",
+            "manufacturer": "Mugs & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 14.96,
+                "priceType": "BUY",
+                "formattedValue": "$14.96",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0004",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-block.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-block.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "100",
+                    "name": "Stuff",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brand_1",
+                    "name": "Brand1"
+                },
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                }
+            ],
+            "priceUSDrange": "$0-$19.99"
+        },
+        {
+            "code": "0101",
+            "name": "hybris Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Shirts/hybris-Shirt/p/0101",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Shirt for males",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 29.92,
+                "priceType": "BUY",
+                "formattedValue": "$29.92",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0101",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-tshirt-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-tshirt-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "210",
+                    "name": "Shirts",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0005",
+            "name": "hybris lanyard",
+            "url": "/Hybris-Catalogue/Stuff/hybris-lanyard/p/0005",
+            "description": null,
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "manufacturer": "Mugs & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 13.6,
+                "priceType": "BUY",
+                "formattedValue": "$13.60",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0005",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-badge.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-badge.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "100",
+                    "name": "Stuff",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brand_1",
+                    "name": "Brand1"
+                },
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                }
+            ],
+            "priceUSDrange": "$0-$19.99"
+        },
+        {
+            "code": "0006",
+            "name": "hybris USB-stick",
+            "url": "/Hybris-Catalogue/Stuff/hybris-USB-stick/p/0006",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "USB-stick",
+            "manufacturer": "Mugs & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 29.92,
+                "priceType": "BUY",
+                "formattedValue": "$29.92",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0006",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-usb-stick.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-usb-stick.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "100",
+                    "name": "Stuff",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brand_1",
+                    "name": "Brand1"
+                },
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0007",
+            "name": "hybris Wiesnherz",
+            "url": "/Hybris-Catalogue/Stuff/hybris-Wiesnherz/p/0007",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "A delicate gift for a special person",
+            "manufacturer": "Mugs & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 20.4,
+                "priceType": "BUY",
+                "formattedValue": "$20.40",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0007",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-wiesnherz.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-wiesnherz.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "100",
+                    "name": "Stuff",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brand_1",
+                    "name": "Brand1"
+                },
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0100",
+            "name": "hybris Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Shirts/hybris-Shirt/p/0100",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Shirt for males",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 29.92,
+                "priceType": "BUY",
+                "formattedValue": "$29.92",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0100",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-tshirt-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-tshirt-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "210",
+                    "name": "Shirts",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0102",
+            "name": "hybris Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Shirts/hybris-Shirt/p/0102",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Shirt for males",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 29.92,
+                "priceType": "BUY",
+                "formattedValue": "$29.92",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0102",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-tshirt-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-tshirt-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "210",
+                    "name": "Shirts",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0111",
+            "name": "hybris Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Shirts/hybris-Shirt/p/0111",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Shirt for females",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 29.92,
+                "priceType": "BUY",
+                "formattedValue": "$29.92",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0111",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-tshirt-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-tshirt-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "210",
+                    "name": "Shirts",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0110",
+            "name": "hybris Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Shirts/hybris-Shirt/p/0110",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Shirt for females",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 29.92,
+                "priceType": "BUY",
+                "formattedValue": "$29.92",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0110",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-tshirt-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-tshirt-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "210",
+                    "name": "Shirts",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0112",
+            "name": "hybris Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Shirts/hybris-Shirt/p/0112",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Shirt for females",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 29.92,
+                "priceType": "BUY",
+                "formattedValue": "$29.92",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0112",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-tshirt-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-tshirt-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "210",
+                    "name": "Shirts",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0201",
+            "name": "hybris Sweat Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Sweats/hybris-Sweat-Shirt/p/0201",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Sweat Shirt for males",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 44.88,
+                "priceType": "BUY",
+                "formattedValue": "$44.88",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0201",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-tshirt-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-tshirt-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "220",
+                    "name": "Sweats",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0200",
+            "name": "hybris Sweat Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Sweats/hybris-Sweat-Shirt/p/0200",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Sweat Shirt for males",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 44.88,
+                "priceType": "BUY",
+                "formattedValue": "$44.88",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0200",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-hoodie-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-hoodie-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "220",
+                    "name": "Sweats",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0202",
+            "name": "hybris Sweat Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Sweats/hybris-Sweat-Shirt/p/0202",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Sweat Shirt for males",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 44.88,
+                "priceType": "BUY",
+                "formattedValue": "$44.88",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0202",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-hoodie-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-hoodie-men.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "220",
+                    "name": "Sweats",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0211",
+            "name": "hybris Sweat Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Sweats/hybris-Sweat-Shirt/p/0211",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Sweat Shirt for females",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 44.88,
+                "priceType": "BUY",
+                "formattedValue": "$44.88",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0211",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-hoodie-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-hoodie-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "220",
+                    "name": "Sweats",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0210",
+            "name": "hybris Sweat Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Sweats/hybris-Sweat-Shirt/p/0210",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Sweat Shirt for females",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 44.88,
+                "priceType": "BUY",
+                "formattedValue": "$44.88",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0210",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-hoodie-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-hoodie-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "220",
+                    "name": "Sweats",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        },
+        {
+            "code": "0212",
+            "name": "hybris Sweat Shirt",
+            "url": "/Hybris-Catalogue/Clothes/Sweats/hybris-Sweat-Shirt/p/0212",
+            "description": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>",
+            "purchasable": null,
+            "stock": {
+                "stockLevelStatus": {
+                    "code": "inStock",
+                    "type": "StockLevelStatus"
+                },
+                "stockLevel": null,
+                "stockThreshold": null
+            },
+            "futureStocks": null,
+            "availableForPickup": false,
+            "averageRating": null,
+            "numberOfReviews": null,
+            "summary": "hybris Sweat Shirt for females",
+            "manufacturer": "Clothes & Co",
+            "variantType": null,
+            "price": {
+                "currencyIso": "USD",
+                "value": 44.88,
+                "priceType": "BUY",
+                "formattedValue": "$44.88",
+                "minQuantity": null,
+                "maxQuantity": null
+            },
+            "baseProduct": "0212",
+            "images": [
+                {
+                    "imageType": "PRIMARY",
+                    "format": "thumbnail",
+                    "url": "/resources/images/products/96Wx96H/hybris-merch-hoodie-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                },
+                {
+                    "imageType": "PRIMARY",
+                    "format": "product",
+                    "url": "/resources/images/products/515Wx515H/hybris-merch-hoodie-girls.jpg",
+                    "altText": null,
+                    "galleryIndex": null,
+                    "width": null
+                }
+            ],
+            "categories": [
+                {
+                    "code": "1",
+                    "name": "Hybris Catalogue",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "200",
+                    "name": "Clothes",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                },
+                {
+                    "code": "220",
+                    "name": "Sweats",
+                    "url": null,
+                    "description": null,
+                    "image": null,
+                    "parentCategoryName": null,
+                    "sequence": 0
+                }
+            ],
+            "reviews": null,
+            "classifications": null,
+            "potentialPromotions": null,
+            "variantOptions": null,
+            "baseOptions": null,
+            "volumePricesFlag": false,
+            "volumePrices": null,
+            "productReferences": null,
+            "variantMatrix": null,
+            "priceRange": {
+                "minPrice": null,
+                "maxPrice": null
+            },
+            "firstCategoryNameList": null,
+            "multidimensional": null,
+            "configurable": false,
+            "keywords": null,
+            "genders": null,
+            "brands": [
+                {
+                    "code": "brands",
+                    "name": "Brands"
+                },
+                {
+                    "code": "brand_2",
+                    "name": "Brand2"
+                }
+            ],
+            "priceUSDrange": "$20-$49.99"
+        }
+    ],
+    "pagination": {
+        "pageSize": 20,
+        "currentPage": 0,
+        "sort": "relevance",
+        "numberOfPages": 1,
+        "totalNumberOfResults": 19
+    }
+}

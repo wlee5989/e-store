@@ -1,0 +1,81 @@
+<html>
+
+<head>
+	<title>Pure Js Online Shopping</title>
+	<link rel="stylesheet" type="text/css" media="all" href="resources/css/bulma.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="resources/css/style.css" />
+</head>
+
+<body>
+	<div class="container header-container">
+		<div class="tippy" data-text1="Buy One Get One" data-text2="Fall Feast 50%"></div>
+		<h2 class="title is-2"></h2>
+
+		<div class="level">
+			<div class="level-left">
+			</div>
+			<div class="level-right">
+				<div class="level-item">
+					<a href="#" class="link link-cart badge1" data-badge="0">Cart
+						<div class="mini-cart">Mini Cart</div>
+					</a>
+				</div>
+				<div class="level-item">Profile</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container search-container">
+		<form id="searchForm">
+			<input type="text" placeholder="type search" class="search">
+		</form>
+	</div>
+	<div class="container search-result-container">
+		<div class="filter-panel"></div>
+		<div class="columns">
+			<div class="column is-one-fifth facet-panel"></div>
+			<div class="column is-four-fifths result-panel">
+				<div class="pagination pagination-top" role="navigation"></div>
+				<div class="results"></div>
+				<div class="pagination pagination-bottom" role="navigation"></div>
+			</div>
+		</div>
+	</div>
+	<div class="container home-middle-container">
+		<img src="/resources/images/hpfullhero2-skechers-110118.webp" alt="a summer dress with a floral printed skirt paired with a pair of Reef sandals"
+		 width="100%">
+	</div>
+	<div class="container product-detail-container hide">
+		<h2 class="title is-2">Product Detail</h2>
+		<a href="#" class="backtolist">Back to list</a>
+		<section class="product-detail"></section>
+	</div>
+	<div class="container cart-container hide">
+		<h2 class="title is-2">Cart Detail</h2>
+		<a href="#" class="backtolist">Back to list</a>
+		<div class="columns">
+			<div class="column is-two-thirds">
+				<ul class="cart-detail"></ul>
+			</div>
+			<div class="column">
+				<div class="cart-summary"></div>
+			</div>
+		</div>
+
+	</div>
+	<div class="container checkout-container hide">
+		<h2 class="title is-2">Chcekout</h2>
+		<a href="#" class="backtolist">Back to list</a>
+		<section class="checkout-form"></section>
+	</div>
+	<div class="container footer-container hide">
+		<a href="#" class="backtolist">Back to list</a>
+		<section class="content"></section>
+	</div>
+	<div class="container footer-link-container"></div>
+
+	<script data-main="/resources/js/app" src="/resources/js/require.js"></script>
+
+</body>
+
+</html>
