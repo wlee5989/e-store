@@ -11,5 +11,13 @@
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlee5989/e-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wlee5989/e-store/issues"
+  },
+  "homepage": "https://github.com/wlee5989/e-store#readme"
 }
