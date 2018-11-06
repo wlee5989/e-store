@@ -1,7 +1,7 @@
 require(
     ['util', 'components/search', 'components/topRightLinks', 'components/searchModel'
-        , 'components/footer', 'components/tippy'],
-    function (util, searchBox, topRightLinks, searchModel, footer, tippy ) {
+        , 'components/footer', 'components/tippy', 'components/navbar'],
+    function (util, searchBox, topRightLinks, searchModel, footer, tippy, navbar ) {
 
         const endpoint = "/data/products.json";
 
@@ -38,7 +38,9 @@ require(
             topRightLinks.moveToCart = this.moveToCart;
             topRightLinks.moveToCheckout = this.moveToCheckout;
             topRightLinks.init();
-            this.listenres.push(topRightLinks);
+
+            navbar.onselectCategory = this.onselectCategory;
+            navbar.init();
 
             searchBox.moveToCart = this.moveToCart;
             searchBox.moveToProductView = this.moveToProductView;

@@ -17,11 +17,11 @@ define(['components/facet/facetUtils'], function (facetUtils) {
 
         fn(this.matched);
     }
-    searchModel.findMatchesWithFilters = function (searchTerm, filters, fn) {
-        this.findMatches(searchTerm, (products) => {
+    searchModel.findMatchesWithFilters = function (searchTerm, filters, byCategory, fn) {
 
+        function refineByFilters(products) {
 
-            this.matched = products.filter(product => {
+            return products.filter(product => {
                 let matchesAll = true;
 
                 Object.keys(filters).forEach(key => {
@@ -61,22 +61,39 @@ define(['components/facet/facetUtils'], function (facetUtils) {
                 return matchesAll;
             })
 
-            fn(this.matched);
-        });
+        }
+
+        if(byCategory) {
+            this.findAllByCategory(searchTerm, (products) => {
+                this.matched = refineByFilters(products);
+                fn(this.matched);
+            });
+        }
+        else {
+            this.findMatches(searchTerm, (products) => {
+                this.matched = refineByFilters(products);
+                fn(this.matched);
+            });
+        }
+    };
+    searchModel.findAllByCategory = function(category, fn) {
+
+        fn(this.products.filter( p => {
+
+            let includes = false;
+
+            p.categories.forEach( cat => {
+                if( cat.code === category ) {
+                    includes = true;
+                }
+            })
+
+            return includes;
+        }));
     }
     searchModel.findProduct = function (code, fn) {
         fn(this.products.find(p => p.code === code));
     };
-    searchModel.facets = function () {
-
-        const facets = [];
-
-        facets.push(facetUtils.createCategoryFacet(this.matched));
-        facets.push(facetUtils.createBrandFacet(this.matched));
-        facets.push(facetUtils.createPriceFacet(this.matched));
-
-        return facets;
-    }
 
     return searchModel;
 });

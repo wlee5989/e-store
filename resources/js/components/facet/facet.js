@@ -6,14 +6,14 @@ define(['util', 'components/facet/facetPanel', 'components/facet/filterPanel']
             onchangeFilters: null,
             filters: {},
         };
-        facet.init = function () {
+        facet.init = function (matchedProducts) {
 
             filterPanel.oncloseFilter = this.oncloseFilter.bind(this);
             filterPanel.onclearFilters = this.onclearFilters.bind(this);
             filterPanel.init();
 
             facetPanel.onaddFilter = this.onaddFilter.bind(this);
-            facetPanel.init();
+            facetPanel.init(matchedProducts);
         };
         facet.onaddFilter = function (e) {
 

@@ -15,13 +15,14 @@ define(['util', 'components/searchModel', 'components/cart/cart', 'components/pr
         };
         productListView.tplList = function (products) {
 
-            if(products.length > 0) {
+            if (products.length > 0) {
                 const productHtml = products.map(product => this.tplProduct(product)).join('');
                 return `
                 <div class="row columns is-multiline">
                     ${productHtml}
                 </div>
-            `;            }
+            `;
+            }
             else {
                 return `<div>No Items were matched.</div>`
             }
@@ -48,6 +49,7 @@ define(['util', 'components/searchModel', 'components/cart/cart', 'components/pr
             model: searchModel,
             view: productListView,
             searchTerm: null,
+            byCategory: false,
             matched: [],
             numberOfProductsPerPage: 6,
         };
@@ -76,16 +78,9 @@ define(['util', 'components/searchModel', 'components/cart/cart', 'components/pr
         }
 
 
-        productList.init = function (searchTerm) {
+        productList.init = function (searchTerm, byCategory) {
 
-            this.searchTerm = searchTerm;
-
-            // sets implements for listeners
-            this.view.addDetailEventListener = this.addDetailEventListener.bind(this);
-            this.view.addCartEventListener = this.addCartEventListener.bind(this);
-
-            this.model.findMatches(searchTerm, (matchedProducts) => {
-
+            const display = (matchedProducts) => {
                 this.matched = matchedProducts;
 
                 const productsInPageOne = this.findProductsByPageNumber(1);
@@ -93,10 +88,31 @@ define(['util', 'components/searchModel', 'components/cart/cart', 'components/pr
 
                 pager.onchangeNotify = this.onchangeNotify.bind(this);
                 pager.init(matchedProducts.length, this.numberOfProductsPerPage);
-            });
+            }
+
+            this.searchTerm = searchTerm;
+
+            // sets implements for listeners
+            this.view.addDetailEventListener = this.addDetailEventListener.bind(this);
+            this.view.addCartEventListener = this.addCartEventListener.bind(this);
+
+            if (byCategory) {
+                this.byCategory = true;
+
+                this.model.findAllByCategory(searchTerm, (matchedProducts) => {
+                    display(matchedProducts);
+                });            
+            }
+            else {  // text search
+                this.byCategory = false;
+
+                this.model.findMatches(searchTerm, (matchedProducts) => {
+                    display(matchedProducts);
+                });
+            }
 
             facet.onchangeFilters = this.onchangeFilters.bind(this);
-            facet.init();
+            facet.init(this.matched);
 
 
             util.moveTo('searchResultView')
@@ -118,8 +134,8 @@ define(['util', 'components/searchModel', 'components/cart/cart', 'components/pr
             console.log("search-term:" + this.searchTerm);
             console.log(filters);
 
-            this.model.findMatchesWithFilters(this.searchTerm, filters, (products) => {
-                
+            this.model.findMatchesWithFilters(this.searchTerm, filters, this.byCategory, (products) => {
+
                 this.matched = products;
 
                 const productsInPageOne = this.findProductsByPageNumber(1);
