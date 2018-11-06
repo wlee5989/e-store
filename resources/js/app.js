@@ -44,6 +44,7 @@ require(
 
             searchBox.moveToCart = this.moveToCart;
             searchBox.moveToProductView = this.moveToProductView;
+            searchBox.onfocusSearch = this.onfocusSearch;
             searchBox.init();
 
             footer.init();
@@ -53,6 +54,9 @@ require(
 
             util.subscribe('moveTo', this.handleMoveTo.bind(this));
 
+        }
+        app.onfocusSearch = function(e) {
+            navbar.init();
         }
         app.handleMoveTo = function (navigation) {
             switch (navigation.page) {
