@@ -58,6 +58,9 @@ require(
         app.onfocusSearch = function(e) {
             navbar.init();
         }
+        app.onselectCategory = function() {
+            searchBox.init();
+        }
         app.handleMoveTo = function (navigation) {
             switch (navigation.page) {
                 case 'productView':

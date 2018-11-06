@@ -6,14 +6,13 @@ define(['components/searchModel', 'components/productList'], function (searchMod
         root: document.querySelector('.search-container'),
         keyUpOrChangeEventListener: null,
         cartLinkClickEventListener: null,
-        onfocusSearch: null,
 
         render: function () {
 
+            this.root.querySelector(".search").value = '';
+
             this.root.querySelector(".search").addEventListener("keyup", this.keyUpOrChangeEventListener);
             this.root.querySelector(".search").addEventListener("change", this.keyUpOrChangeEventListener);
-            this.root.querySelector(".search").addEventListener("focus", this.onfocusSearch);
-
          },
     }
 
@@ -27,7 +26,6 @@ define(['components/searchModel', 'components/productList'], function (searchMod
 
         // sets event handlers to view
         this.view.keyUpOrChangeEventListener = this.keyUpOrChangeEventListener.bind(this);
-        this.view.onfocusSearch = this.onfocusSearch;
         // renders view
         this.view.render();
 
@@ -36,6 +34,9 @@ define(['components/searchModel', 'components/productList'], function (searchMod
     searchBox.keyUpOrChangeEventListener = function(e) {
 
         productList.init(e.target.value);
+        
+        // notify parent
+        this.onfocusSearch();
     };
 
 

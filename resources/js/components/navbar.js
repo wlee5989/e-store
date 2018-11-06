@@ -4,6 +4,7 @@ define(['util', 'components/searchModel', 'components/productList']
 
     const navbar = {
         root: document.querySelector('.nav-bar-container'),
+        onselectCategory: null,
     };
     navbar.init = function() {
 
@@ -24,8 +25,6 @@ define(['util', 'components/searchModel', 'components/productList']
             this.root.querySelectorAll('.category > .navbar-item').forEach(category => {
                 category.classList.remove('active');
             });
-
-            console.log( this.root.querySelectorAll('.category > .navbar-item') );
         }
         const category = e.target.dataset.category;
         productList.init(category, true);
@@ -37,6 +36,9 @@ define(['util', 'components/searchModel', 'components/productList']
         else if(category === '200') {
             this.root.querySelector('.clothes').classList.add('active');
         }
+
+        // notify parent
+        this.onselectCategory();
     }
 
     return navbar;
