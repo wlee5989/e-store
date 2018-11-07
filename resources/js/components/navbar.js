@@ -1,5 +1,5 @@
-define(['util', 'components/searchModel', 'components/productList']
-    , function(util, searchModel, productList) {
+define(['util', 'components/searchModel', 'components/productList', 'components/cartLink']
+    , function(util, searchModel, productList, cartLink) {
     'use strict';
 
     const navbar = {
@@ -8,15 +8,22 @@ define(['util', 'components/searchModel', 'components/productList']
     };
     navbar.init = function() {
 
-        this.render();
+        this.render(() => {
+
+            console.log( this.root.querySelector('.link-cart') );
+
+            cartLink.init();
+        });
     }
-    navbar.render = function() {
+    navbar.render = function(fn) {
         util.loadTemplate('nav-bars.html')
             .then(html => {
                 this.root.innerHTML = html;
 
                 this.root.querySelector('.stuff').addEventListener('click', this.onclickCategory.bind(this));
                 this.root.querySelector('.clothes').addEventListener('click', this.onclickCategory.bind(this));
+                
+                fn();
             });
     };
     navbar.onclickCategory = function(e) {

@@ -35,12 +35,14 @@ require(
             
             tippy.init();
 
-            topRightLinks.moveToCart = this.moveToCart;
-            topRightLinks.moveToCheckout = this.moveToCheckout;
-            topRightLinks.init();
+
 
             navbar.onselectCategory = this.onselectCategory;
             navbar.init();
+
+            // topRightLinks.moveToCart = this.moveToCart;
+            // topRightLinks.moveToCheckout = this.moveToCheckout;
+            // topRightLinks.init();
 
             searchBox.moveToCart = this.moveToCart;
             searchBox.moveToProductView = this.moveToProductView;

@@ -4,18 +4,22 @@ define(['components/cart/cart', 'util'], function (cart, util) {
 
     //--------------- View -----------
     const miniCartView = {
-        root: document.querySelector('.mini-cart'),
+        root: document.querySelector('.nav-bar-container'),
         onclickViewCart: null,
     };
     miniCartView.render = function () {
 
         util.loadTemplate('mini-cart.html')
             .then(html => {
-                this.root.innerHTML = html
+
+                this.miniCartNode = this.root.querySelector('.mini-cart');
+
+                this.miniCartNode.innerHTML = html
                     .replace(/itemCount/, cart.countTotalItems());
 
-                const itemsDOM = this.root.querySelector(".items");
-                const itemDOM = this.root.querySelector('.item');
+
+                const itemsDOM = this.miniCartNode.querySelector(".items");
+                const itemDOM = this.miniCartNode.querySelector('.item');
                 const itemHTML = itemDOM.innerHTML;
 
                 const itemsHTML = cart.fetchTotalItems().map(item => {

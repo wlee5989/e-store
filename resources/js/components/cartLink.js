@@ -3,27 +3,32 @@ define(['components/cart/cart', 'components/miniCart', 'util'],
         'use strict';
 
         const cartLinkView = {
-            root: document.querySelector(".link-cart"),
+            root: document.querySelector(".nav-bar-container"),
             render: function () {
 
+                console.log( this );
+
+                this.cartLinkNode = this.root.querySelector('.link-cart');
+
+                this.cartLinkNode.addEventListener('click', this.onclickCartLink);
+                this.cartLinkNode.addEventListener('mouseover', this.onhoverCartLink);
+                this.cartLinkNode.addEventListener('mouseout', this.onmouseoutCartLink);
+
                 this.updateBadge();
-
-                this.root.addEventListener('click', this.onclickCartLink);
-                this.root.addEventListener('mouseover', this.onhoverCartLink);
-                this.root.addEventListener('mouseout', this.onmouseoutCartLink);
-
 
             },
             updateBadge: function () {
 
                 const numberOfItems = cart.countTotalItems();
-                this.root.dataset.badge = numberOfItems;
+
+                const cartLinkNode = this.root.querySelector('.link-cart');
+                this.cartLinkNode.dataset.badge = numberOfItems;
             },
             showMiniCart: function () {
-                this.root.classList.add('active');
+                this.cartLinkNode.classList.add('active');
             },
             hideMiniCart: function () {
-                this.root.classList.remove('active');
+                this.cartLinkNode.classList.remove('active');
             },
             onhoverCartLink: null,
             onclickCartLink: null,

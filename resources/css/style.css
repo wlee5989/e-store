@@ -23,6 +23,9 @@
     margin: 1px 1px;
     border: 1px solid lightgray;
 }
+.header-container .title {
+    margin: 10px 0px;
+}
 
 .link {
     margin-right: 20px;
@@ -66,6 +69,10 @@
 input[type="button"] {
     width:25px; 
     height:25px;
+}
+
+.link {
+    margin-right: 25px;
 }
 
 .link-cart {
